@@ -8,7 +8,7 @@
 
 ## Overview
 
-A professional, reproducible framework for **real-time point and distributional forecasts** of U.S. Nonfarm Payrolls (NFP).  
+A reproducible framework for **real-time point and distributional forecasts** of U.S. Nonfarm Payrolls (NFP).  
 The project ingests Bloomberg survey data, builds **ensemble point forecasts** and **calibrated predictive intervals**, and evaluates performance with a common rubric;signals are transparent, comparable, and ready for portfolio use.
 
 If you’re looking for setup instructions, data placement, and exact run order, see **`MANUAL.md`** (kept separate from this README to keep the front page concise).
